@@ -66,6 +66,8 @@ html {
   
   /* Meme Poster Styles */
   .meme-poster {
+    width: 80%;
+    height: 80%;
     text-align: center;
     transition: transform 0.3s ease;
   }
