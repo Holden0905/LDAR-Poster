@@ -12,7 +12,8 @@ html {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: white;
+    color: black;
   }
   
   /* Header Styles */
@@ -20,6 +21,7 @@ html {
     text-align: center;
     background-color: #111;
     border-bottom: 3px solid white;
+    color: #2C7A2A;#2C7A2A
   }
   
   header h1 {
@@ -111,4 +113,5 @@ html {
     margin: 0.5rem 0;
     font-size: 0.9rem;
     opacity: 0.7;
+    color: #2C7A2A;
   }
